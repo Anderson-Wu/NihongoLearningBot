@@ -102,7 +102,7 @@ In every row of file, you have to follow the rules below(there is also an exampl
 	</tr>
 	</table>
 
-## Deploy(This part is from https://github.com/NCKU-CCS/TOC-Project-2020)
+## Deploy(This part is copied from https://github.com/NCKU-CCS/TOC-Project-2020)
 Setting to deploy webhooks on Heroku.
 
 ### Heroku CLI installation
